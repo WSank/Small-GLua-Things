@@ -1,1 +1,1 @@
-Removed & fixed useless things.
+Removed some useless things.
